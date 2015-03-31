@@ -1,0 +1,6 @@
+[submodule "fish"]
+    path = fish
+    url = git@github.com:mekanix/fish.git
+[submodule "vim"]
+    path = vim
+    url = git@github.com:mekanix/vim.git
